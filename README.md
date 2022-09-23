@@ -1,2 +1,1 @@
-# EDACollection
-Collection of different Exploratory Data Analysis Approaches
+# Exploratory Data Analysis
